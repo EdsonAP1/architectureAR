@@ -25,7 +25,7 @@ Este proyecto implementa una arquitectura moderna basada en la separación entre
                     │                                             │
                     ▼                                             ▼
    ┌─────────────────────────────────┐           ┌─────────────────────────────────┐
-   │         NUBE / CLOUD            │           │         SERVIDOR CASERO         │
+   │         NUBE / CLOUD            │           │         SERVIDOR AR        │
    │  Cloudflare Pages               │           │  (Docker Compose)               │
    │  - React (Vite)                 │           │                                 │
    │  - Assets / UI                  │           │  ┌───────────────────────────┐  │
