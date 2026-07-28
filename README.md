@@ -125,15 +125,15 @@ proyecto/
 
 # Descripción de Directorios
 
-## frontend/
+## frontend
 
 Contiene toda la aplicación cliente desarrollada con React. Este directorio se despliega directamente en Cloudflare Pages y no requiere Docker.
 
-## backend/
+## backend
 
 Implementa la API REST desarrollada en Go. Se ejecuta dentro de un contenedor Docker y contiene toda la lógica del negocio.
 
-## database/
+## database
 
 Incluye los scripts SQL necesarios para crear la estructura inicial de la base de datos e insertar información base.
 
